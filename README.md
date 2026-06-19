@@ -20,8 +20,8 @@ Entwicklung einer ERP-Software zur Unterstützung einer Steuerkanzlei, inklusive
 - HR-Prozessunterstützung
 
 ## 🧠 Technologien
-- Python (Flask / Django)
-- SQL (PostgreSQL / MSSQL)
+- Python ( Django)
+- SQL (PostgreSQL)
 - Datenmodellierung
 - Webentwicklung
 
